@@ -3,7 +3,7 @@
 
 Software Engineer at [Keiser Corporation](https://keiser.com) currently pushing the Fitness space further with tech
 
-### Currently working with:
+### Currently working with
 
 * Vue, React, React Native, Flutter
 * MongoDB, Express
